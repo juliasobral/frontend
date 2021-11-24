@@ -1,0 +1,51 @@
+#nome {
+color: rgb(43, 113, 226);
+font-size: xx-large;
+font-family:Verdana;
+text-align: center;
+}
+#titulo1 {
+    color: rgb(43, 113, 226);
+    font-size: medium;
+    font-family:Verdana;
+    text-align: center;
+}
+.body {
+    background-color: rgb(154, 225, 235);
+}
+#p {
+    text-align:left;
+    color: black;
+    font-size: 17px;
+    font-family: -apple-system;
+}
+.container {
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+    align-items: center;
+}
+.contato {
+    color: rgb(43, 113, 226);
+    text-align:left;
+    font-family: Verdana;
+    text-decoration: black;
+}
+#img1 {
+    border-radius: 60%;
+    width: 300px;
+    height: 300px;
+    padding-left: 20%;
+}
+.center {
+    text-align: center;
+}
+#m1{
+    text-align: center;
+    font-family: Verdana;
+    color: rgb(43, 113, 226);
+    font-size: medium;
+}
+.border{
+    border-radius: 50%;
+}
